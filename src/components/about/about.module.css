@@ -1,0 +1,21 @@
+.title {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 59px;
+    text-align: center;
+    color: #000000;
+    margin-bottom: 85px;
+}
+
+.gradient {
+    background: linear-gradient(180deg, #B90160 0%, #3D5BF5 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.cards {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}

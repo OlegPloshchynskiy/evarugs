@@ -1,0 +1,31 @@
+.card {
+    width: 344px;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    background: #FFFFFF;
+    border-radius: 9px;
+}
+
+.cardImage {
+    border-radius: 9px 9px 0 0;
+}
+
+.title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    padding-left: 25px;
+    color: #000000;
+}
+
+.description {
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    padding-left: 25px;
+    padding-bottom: 30px;
+    color: #767676;
+}
